@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage":"https://AjeyaMantri1809.github.io/",
+  "homepage":"https://ajeyamantri1809.github.io/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
