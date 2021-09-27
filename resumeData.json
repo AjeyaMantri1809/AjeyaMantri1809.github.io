@@ -1,0 +1,224 @@
+{
+    "main": {
+        "name": "Ajeya Mantri",
+        "description": "I'm a final-year undergraduate student at the National University of Singapore, looking to embark on a career in software development",
+        "image": "profile_photo.jpeg",
+        "bio": "I am endlessly curious and always seeking out opportunities to learn and experience new things, while also building on pre-existing skills and knowledge. I possess a balanced and diverse range of technical and interpersonal skills, acquired through involvement in a number of carefully considered opportunities. I am experienced across various domains and my interests beyond graduation (June 2022) lie in tech-related roles: software development, mobile app development, and tech consultancy. Outside of work and academics, I am an avid watcher of movies and TV shows, and a passionate fan of football and F1. If you wish to connect with me, feel free to reach out, preferably via email or LinkedIn.",
+        "contactmessage": "If you wish to learn more, feel free to reach out using any of the links below. For the most prompt response, message me on Whatsapp and Telegram!",
+        "email": "ajeya.mantri@u.nus.edu",
+        "phone": "+65 91090025",
+        "github": "https://github.com/AjeyaMantri1809",
+        "project": "https://github.com/AjeyaMantri1809",
+        "address": {
+            "street": "Tampines",
+            "city": "Singapore"
+        },
+        "website": "https://AjeyaMantri1809.github.io/",
+        "resumedownload": "https://bit.ly/ajeya_mantri_resume",
+        "linkedin": "https://www.linkedin.com/in/ajeya-mantri/",
+        "social": [
+            {
+                "name": "email",
+                "url": "mailto:ajeya.mantri@u.nus.edu",
+                "className": "fa fa-email"
+            },
+            {
+                "name": "telegram",
+                "url": "https://t.me/ajeya",
+                "className": "fa fa-telegram"
+            },
+            {
+                "name": "whatsapp",
+                "url": "https://wa.me/6591090025",
+                "className": "fa fa-whatsapp"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/ajeya-mantri/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/AjeyaMantri1809",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "I possess a balanced and diverse range of technical and interpersonal skills, acquired through involvement in a number of carefully considered opportunities",
+        "education": [
+            {
+                "school": "National University of Singapore ",
+                "degree": "Bachelors of Engineering (Mechanical Engineering) with Minor in Computer Science",
+                "graduated": "(2018 - 2022)",
+                "cap": "Cumulative GPA: 4.66/5.00 (Expected to graduate with First Class Honours)",
+                "coursework":  "Relevant Coursework: Programming Foundations, Object-Oriented Programming, Data Structures and Algorithms, Interaction Design, Principles of Software Design",
+                "specialprogram1": "Enrolled in the University Scholars Programme (USP), a prestigious and highly selective (3% acceptance rate) multi-disciplinary program that hones critical thinking and shapes independent, adaptable thinkers and doers",
+                "specialprogram1honour": "Placed on the USP Honour Roll in 2019, awarded to the top 15% of each batch for academic excellence, and active engagement and contributions to the community",
+                "specialprogram2": "Participated in the NUS Overseas Colleges (NOC) Program, a year-long immersive entrepreneurial program in which students complete internships at start-ups and undertake experiential entrepreneurial coursework",
+                "specialprogram2honour": "Won the NOC Venture Initiation Program $10K Grant to further develop our start-up idea, beating out more than 25 other teams in the NOC program"
+            },
+
+            {
+                "school": "Global Indian International School Singapore ",
+                "degree": "International Baccalaureate (IB) Diploma Program",
+                "graduated": "(2013 - 2015)",
+                "cap": "Scored 40/45, with perfect scores in Chemistry and Business Management"
+            }
+        ],
+        "work": [
+            {
+                "company": "2359 Media",
+                "title": "Software Development Intern",
+                "years": "January 2021 - June 2021",
+                "description1": "Developed front-end features and UI of a mobile application using Java, Kotlin and Android Development SDK, to expand client user base (~ 100K users) by 25%",
+                "description2": "Implemented APIs to integrate a marketplace feature and a questionnaire-based recommendation system into a convenient interface, with aim of increasing user engagement and product sales (~ US $40M) by 2x",
+                "description3": "Created and Deployed highly efficient REST APIs and GraphQL Queries to fetch, handle and update data from Shopify databases and internal backend servers to reduce loading time and provide a seamless user experience on the app",
+                "description4": "Collaborated with a team of 20 including project managers, UI/UX designers, and back-end developers, using the Agile Methodology, to deliver a rigorously tested application 2 months ahead of schedule"
+            },
+            {
+                "company": "Kinexcs",
+                "title": "Product Development Intern (Software)",
+                "years": "June 2020 - December 2020",
+                "description1": "Led front-end development of a cross-platform mobile application using Flutter, taking the app from concept to market in <6 months, helping the company land their first set of 3 large scale trials",
+                "description2": "Integrated hardware wearable device to the app using BLE protocols and a custom-designed SDK, enabling more intuitive data visualization and continuous monitoring by clinicians, leading to improved recovery outcomes",
+                "description3": "Involved in projects relating to hardware and firmware development, quality management and software hiring",
+                "description4": ""
+            },
+            {
+                "company": "Whizpace",
+                "title": "Engineering Intern",
+                "years": "May 2019 - July 2019",
+                "description1": "Authored a white paper on “TV White Space Technologies” based on intensive market research, to provide solutions for the company to diversify from the rural industry to more profitable industrial markets.",
+                "description2": "Used Solid Edge, a CAD software to render 3D models of the company’s products, simplifying further development.",
+                "description3": "Processed several financial transactions and statements to enable overdue reimbursement of capital awarded through a government grant.",
+                "description4": ""
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "VueJs",
+                "level": "55%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "JAVA",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Personal Website",
+                "description": "A custom website created using ReactJs, HTML5 and CSS, to provide a more detailed and holistic overview of my professional experience and personal projects",
+                "category": "View Code",
+                "image": "website_pic.png",
+                "url": "https://ajeyamantri1809.github.io",
+                "codeurl": "https://github.com/AjeyaMantri1809/AjeyaMantri1809.github.io"
+            },
+            {
+                "title": "Form Builder App",
+                "description": "A web application built using Javascript, HTML5 and CSS, which can be used to create multi-field forms, with auto-validation for various user inputs",
+                "category": "View Code",
+                "image": "form_builder_pic.png",
+                "url": "https://ajeyamantri1809.github.io/form-builder-with-validation"
+            },
+            {
+                "title": "Filters Project",
+                "description": "Simple web app built using Javascript, HTML5 and CSS, which allows users to upload a photo and try out a range of filters on it including grayscale, RGB hues and negative.",
+                "image": "filters.png",
+                "url": "https://ajeyamantri1809.github.io/filters-project/"
+            },
+            {
+                "title": "Songbird Website",
+                "description": "A website built using Wix to showcase our start-up idea for a musical instrument self-learning platform. Received over 500 views within a month, and 10% of visitors signed up to be our beta testers",
+                "image": "songbird_pic.png",
+                "url": "https://ajeyamantri1809.github.io",
+                "codeurl": "https://github.com/AjeyaMantri1809/AjeyaMantri1809.github.io"
+            }
+        
+        ]
+    },
+    "extracurriculars": {
+        "eca": [
+            {
+                "org": "University Scholars Club",
+                "title": "Finance Secretary (Welfare)",
+                "years": "Aug 2019 - Aug 2020",
+                "description1": "Member of the finance committee responsible for budgeting, tracking and processing expenditure on student and staff welfare in USP.",
+                "description2": "Created and disseminated several infographics and guides to educate the student body on relevant financial procedures and regulations."
+            },
+            {
+                "org": "USP Productions",
+                "title": "Director (2021), Stage Manager (2020)",
+                "years": "Aug 2018 - Feb 2020",
+                "description1": "Participated in USP's annual theatre production, first as a technical stage manager and subsequently took on the responsibilities of director.",
+                "description2": "Spearheaded the production by setting creative direction of the production and overseeing a team of 50 cast and crew members across 11 committees."
+            },
+            {
+                "org": "Ianthe House Committee, USP",
+                "title": "Vice-Chief Orientation Group Leader",
+                "years": "Aug 2018 - Sep 2019",
+                "description1": "Collaborated with the planning committees and other house committees to organize and oversee orientation activities for incoming freshmen.",
+                "description2": "Led a team of 15 orientation group leaders to ensure orientation activities were carried out in a meaningful, informative and safe manner."
+            },
+            {
+                "org": "Project Ulysses, NUS",
+                "title": "Operations Member and Safety Officer",
+                "years": "Jan 2019 - Jul 2019",
+                "description1": "Planned and implemented the construction of water filtration systems in two schools in Prey-Veng, Cambodia.",
+                "description2": "Drafted and enforced the safety-related standard operating procedures to ensure an injury-free expedition."
+            }
+        ],
+        "volunteering": [
+            {
+                "org": "Children at Risk Empowerment (CARE SG)",
+                "title": "Junior Counsellor",
+                "years": "Jan 2018 - (Ongoing)",
+                "description1": "A not-for-profit organization dedicated to supporting and teaching valuable life skills at-risk secondary school youth in Singapore.",
+                "description2": "Volunteered as a Junior Counsellor/ Facilitator for several camps- ranging from a single day to four-day camps."
+            },
+            {
+                "org": "One Child, One Skill",
+                "title": "Facilitator",
+                "years": "July 2019 - Oct 2019",
+                "description1": "Volunteering program involved with mentoring children with Autism and helping them learn and practice important life-skills.",
+                "description2": "Helped my mentee improve his motor skills by playing various sports, and improve his social skills through activities and games."
+            },
+            {
+                "org": "Connect Tuition, USP",
+                "title": "Mentor",
+                "years": "Aug 2018 - Nov 2018",
+                "description1": "A student-led initiative that provides free tuition and mentorship to secondary school students from underprivileged families",
+                "description2": "Tutored my secondary school mentee in Mathematics and Science, to help him prepare for his tests and assignments.",
+                "description3": "Arranged activities such as museum visits and science experiments to help my mentee learn beyond the classroom"
+            },
+            {
+                "org": "Think Mentorship, NUS",
+                "title": "Mentor",
+                "years": "Jul 2018 - Sep 2018",
+                "description1": "An initiative that aims to provide children from underprivileged background effective written communication skills.",
+                "description2": "Conducted lessons on effective writing and creative writing for a class of secondary school students."
+            },
+            {
+                "org": "Institute of Mental Health",
+                "title": "Volunteer",
+                "years": "Oct 2017 - Dec 2017",
+                "description1": "Helped to organize weekly interaction sessions involving music performances, dancing and simple games for the patients to partake in.",
+                "description2": "Assisted in planning and conducting the Christmas celebration for the patients."
+            }
+        ]
+    }
+}
