@@ -556,7 +556,7 @@ ul#nav li.current a { color: #fe6928; }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #000000; }
+.popup-modal a:hover {	color: #42BFFF; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
@@ -1190,7 +1190,7 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #000 !important;
+   background-color: #42BFFF !important;
 }
 .github-btn{
    background-color: #34495e !important;
